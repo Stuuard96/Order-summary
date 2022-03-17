@@ -1,3 +1,3 @@
 # Frontend Mentor - Order summary card
 
-LINK:
+LINK:https://stuuard96.github.io/Order-summary/
